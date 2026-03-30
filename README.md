@@ -14,7 +14,7 @@ A simple **Machine Learning project** to predict car prices using user inputs. B
 * Streamlit
 
 ---
-🌐 Live demo
+🌐 Live Demo
 
 👉https://nirmal12np-car-price-pridiction-app-vknilf.streamlit.app/
 
